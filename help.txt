@@ -1,0 +1,9 @@
+For modelling:
+
+q1.1 - python naivebayesmodel.py
+q1.2 - python stemming.py
+q1.3 - python naivefeaturesmodel.py
+
+q2.1- python digitclassifiermodel.py
+q2.2- svm-train -t 0 -c 1 scaled_train.txt q22model.model 
+q2.3- svm-train -t 2 -c 1 -g 0.05 scaled_train.txt q23model.model
